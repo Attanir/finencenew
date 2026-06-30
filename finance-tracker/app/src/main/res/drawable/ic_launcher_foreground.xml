@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- wallet body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,40 H73 A7,7 0 0 1 80,47 V67 A7,7 0 0 1 73,74 H35 A7,7 0 0 1 28,67 V47 A7,7 0 0 1 35,40 Z" />
+    <!-- flap fold line -->
+    <path
+        android:fillColor="#16493B"
+        android:pathData="M28,52 H80 V55 H28 Z" />
+    <!-- snap button -->
+    <path
+        android:fillColor="#16493B"
+        android:pathData="M71,63 m-3.4,0 a3.4,3.4 0 1,0 6.8,0 a3.4,3.4 0 1,0 -6.8,0" />
+    <!-- coin accent above wallet -->
+    <path
+        android:fillColor="#E3B23C"
+        android:pathData="M50,32 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0" />
+</vector>
